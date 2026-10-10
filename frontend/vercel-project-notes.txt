@@ -1,0 +1,6 @@
+Vercel project settings
+- Root Directory: frontend
+- Framework: Vite
+- Build Command: npm run build
+- Output Directory: dist
+- Environment Variable: VITE_API_URL=https://YOUR-RENDER-BACKEND.onrender.com
